@@ -1,0 +1,14 @@
+body{
+    padding:10px 50px;
+    background-color: burlywood;
+    box-shadow: 5px 5px gray;
+}
+h2{
+    text-align: center;
+}
+h4{
+    margin-top: 30px;
+}
+p{
+    text-align: justyfy;
+}

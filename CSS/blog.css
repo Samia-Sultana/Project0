@@ -1,0 +1,26 @@
+
+#container{
+display:flex;
+flex-wrap:wrap;
+padding:0 10px ;
+}
+body{
+    background-color: gray;
+}
+.Z{
+    flex:30%;/*30% of total flex box(container)*/
+    max-width:32%;/*maximum width of the flex item(Z) could be 32%*/
+    padding: 0 5px;
+    
+}
+.a{
+max-width:100%;/*100% of Z*/
+margin-bottom: 10px;
+vertical-align: middle;
+background-color: wheat;
+box-shadow: 2px blue;
+}
+.defination{
+    padding:10px;
+    text-align:center;
+}

@@ -1,0 +1,54 @@
+body{
+    background-image: url("../Images/new1.jpg");
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
+
+#div1{
+   
+   float:left;
+   width:100%;
+    margin-top:10px;
+    margin-bottom:10px;
+   
+}
+table{
+    /*margin:auto;*/
+   box-shadow: 5px 5px 5px gray;
+}
+caption{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5px;
+    margin-bottom:10px;
+}
+th,td{
+    width:100px;
+    text-align:center;
+    vertical-align: middle;
+    padding:10px;
+    font-size:20px;
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#div2{
+    padding:40px 10px;
+    /*justify-content: center;
+    align-items: center;*/
+    clear:left;
+    display:flex;
+    flex-wrap: wrap;
+   
+    height:500px;
+}
+#flex2{
+    width: 100px;
+    height: 350px;
+    flex-basis: 50%;
+   
+}
+h3,p{
+    font-size: 20px;
+    color:white;
+}
+

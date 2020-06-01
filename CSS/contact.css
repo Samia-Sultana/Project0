@@ -1,0 +1,36 @@
+body{
+    background-image:url("../Images/contact2.png");
+    background-repeat:repeat;
+    
+}
+#divA{
+    margin-top: 15%;
+    display:block;
+    float:left;
+    width:50%;
+}
+
+#divB{
+    margin-top: 15%;
+    display:inline-block;
+    width:50%;
+}
+
+textarea{
+    resize:none;
+}
+div.icon{
+    margin-left: 40%;
+    margin-bottom: 20px;
+    width:50%;
+}
+div.icon.fa{
+    
+    float:left;
+   
+}
+p{
+    margin-left: 80px;
+    display:inline;
+   
+}
